@@ -34,7 +34,7 @@ environment.serverURL.concat('api/grupos/actualizarGrupo/:idGrupo'),
     eliminarGrupo:
 environment.serverURL.concat('api/grupos/eliminarGrupo/:idGrupo'),
     obtenerGrupoPorID:
-environment.serverURL.concat('api/grupos/obtenerGrupoPorID/:idGrupo'),
+environment.serverURL.concat('api/grupos/obtenerGrupoID/:idGrupo'),
     obtenerGrupos:
 environment.serverURL.concat('api/grupos/obtenerGrupos'),
     // ***********************
